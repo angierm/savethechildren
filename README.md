@@ -49,3 +49,6 @@ OBJETIVO DE USUARIO
 
 # CUSTOMER JOURNEY
 ![customerjourney](assets/img/customerjourney.png)
+
+![ninos1](https://user-images.githubusercontent.com/32881450/38264151-c71921fa-3737-11e8-953f-687288437a46.jpg)
+
