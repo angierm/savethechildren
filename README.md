@@ -14,17 +14,25 @@ Equipo de trabajo:
 
 ![descripciongeneral](assets/img/primera.png)
 
-HERRAMIENTAS
+**Herramientas que se utilizaron en el proyecto**
+
+Illustrator
+
+Photoshop
+
+Google Analytics
+
+ux-research
+
+ux-ui
+
+Hubspot
+
+Invision 
+
+Instapage
 
 Utilizadas durante el proceso para análisis, prototipado e implementación.
-
-GOOGLE ANALYTICS
-
-INVISION
-
-HUBSPOT
-
-INSTAPAGE
 
 ***
 
