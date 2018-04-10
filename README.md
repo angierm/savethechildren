@@ -14,7 +14,7 @@ Equipo de trabajo:
 
 ![descripciongeneral](assets/img/primera.png)
 
-**Herramientas que se utilizaron en el proyecto**
+***Herramientas que se utilizaron en el proyecto**
 
 Illustrator
 
@@ -32,7 +32,7 @@ Invision
 
 Instapage
 
-Utilizadas durante el proceso para análisis, prototipado e implementación.
+Se utilizaron durante el proceso para análisis, prototipado e implementación.
 
 ***
 
