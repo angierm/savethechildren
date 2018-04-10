@@ -7,7 +7,7 @@ Proyecto UX para Save the Children México. Optimizar la conversión de visitant
 
 ## Elaborado para Save the Children - [Laboratoria](http://www.laboratoria.la/)
 
- **Anális:**
+ **Análisís**
 Incrementar el número de donadores que llegan a la landing page de Save The Children México a través del anuncio de Google Adwords.
 
 Equipo de trabajo:
@@ -42,12 +42,12 @@ Se utilizaron durante el proceso para análisis, prototipado e implementación.
 
 ***
 
-# Definición del objetivo
+## Definición del objetivo
 
 ![objetivodnegocio](assets/img/1.png)
 ![objetivodnegocio](assets/img/2.png)
 
-# Reserch
+## Reserch
 OBJETIVO DE NEGOCIO
 
 ![encuestas](assets/img/encuestas.png)
@@ -57,13 +57,13 @@ OBJETIVO DE NEGOCIO
 
 
 OBJETIVO DE USUARIO
-# User Reserch
+## User Reserch
 
 ![userpersona](assets/img/userpersona.png)
 
-# CUSTOMER JOURNEY
+## CUSTOMER JOURNEY
 ![customerjourney](assets/img/customerjourney.png)
-# DESIGN
+## DESIGN
 ![captura de pantalla 2018-04-03 a las 12 18 17](https://user-images.githubusercontent.com/32881450/38264622-2caf8044-3739-11e8-9846-36056272a461.png)
 ![ninos1](https://user-images.githubusercontent.com/32881450/38264151-c71921fa-3737-11e8-953f-687288437a46.jpg)
 
