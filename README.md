@@ -3,12 +3,11 @@
 
 ![download](https://user-images.githubusercontent.com/32881450/38587074-b71b817a-3d0f-11e8-84bf-cf4e8f151375.png)
 
+ **Análisís**
 Proyecto UX para Save the Children México. Optimizar la conversión de visitantes a donadores, mediante Landing Page de savethechildren mx
+Incrementar el número de donadores que llegan a la landing page de Save The Children México a través del anuncio de Google Adwords.
 
 ## Elaborado para Save the Children - [Laboratoria](http://www.laboratoria.la/)
-
- **Análisís**
-Incrementar el número de donadores que llegan a la landing page de Save The Children México a través del anuncio de Google Adwords.
 
 Equipo de trabajo:
 
