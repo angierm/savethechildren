@@ -1,7 +1,7 @@
 # Laboratoria UX
 
 
- **Analis:**
+ **Anális:**
 Incrementar el número de donadores que llegan a la landing page de Save The Children México a través del anuncio de Google Adwords.
 
 Equipo de trabajo:
